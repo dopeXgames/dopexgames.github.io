@@ -840,5 +840,12 @@ e-planning.net, f5147a97818958f1, RESELLER, c1ba615865ed87b2
 media.net, 8CU675N41, RESELLER
 video.unrulymedia.com, 703273072, RESELLER
 indexexchange.com, 216401, RESELLER, 50b1c356f2c5c8fc
-
+google.com, pub-5533854580432370, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2031, RESELLER
+uis.mobfox.com, 165, RESELLER
+hyperad.tech, 215, RESELLER
+yandex.com, 326762295, DIRECT
+betweendigital.com, 43554, RESELLER
+Contextweb.com, 562899, RESELLER, 89ff185a4c4e857c
+hyperad.tech, 150, RESELLER
 
